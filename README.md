@@ -1,6 +1,4 @@
-### README for **Clear The Clutter**  
 
----
 
 # Clear The Clutter  
 
